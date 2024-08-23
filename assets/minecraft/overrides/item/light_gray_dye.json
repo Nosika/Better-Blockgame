@@ -1,12 +1,8 @@
 {
-    "overrides": [
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "ESSENCE_WIND"}}, "model": "minecraft:item/nbt/runecarving/essence_wind"}
-    ]
+  "overrides": [
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "ESSENCE_WIND" } },
+      "model": "minecraft:item/nbt/runecarving/essence_wind"
+    }
+  ]
 }
-
-
-
-
-
-
-

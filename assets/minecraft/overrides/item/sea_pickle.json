@@ -1,17 +1,10 @@
 {
-    "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_CACTUS"}
-            },
-            "model": "minecraft:item/nbt/offhands/cactus_pokestick"
-        },
-    ]
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "TOTEM_CACTUS" }
+      },
+      "model": "minecraft:item/nbt/offhands/cactus_pokestick"
+    }
+  ]
 }
-
-
-
-
-
-
-

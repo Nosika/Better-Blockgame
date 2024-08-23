@@ -1,58 +1,12 @@
 {
-    "overrides": [
-        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "DANCING_SPARK"}}, "model": "minecraft:item/nbt/materials/dancing_spark"},
-        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "LIVING_FIRE"}}, "model": "minecraft:item/nbt/materials/living_fire"},
-		
-        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FOCUS_CINDERS"}}, "model": "minecraft:item/nbt/spellfokus/focus_cinders"},
-        {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FOCUS_CINDERS", "MMOITEMS_NAME_PRE": "/.*Immolating.*/"}}, "model": "minecraft:item/nbt/spellfokus/immolating_focus_cinders"},
-		
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_1"}}, "model": "minecraft:item/nbt/runecarving/violence_1"},	
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_1", "MMOITEMS_PVE_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_1"},	
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_1", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_PVP_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_pvp_1"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_1", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_CRITICAL_STRIKE_CHANCE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_crit_1"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_1", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_WEAPON_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_weapon_1"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_1", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_MAGIC_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_magic_1"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_1", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_COOLDOWN_REDUCTION": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_cooldown_1"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_1", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_PROJECTILE_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_projectile_1"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_1", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_CRITICAL_STRIKE_POWER": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_power_1"},
-		
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_2"}}, "model": "minecraft:item/nbt/runecarving/violence_2"},	
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_2", "MMOITEMS_PVE_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_2"},	
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_2", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_PVP_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_pvp_2"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_2", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_CRITICAL_STRIKE_CHANCE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_crit_2"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_2", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_WEAPON_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_weapon_2"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_2", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_MAGIC_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_magic_2"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_2", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_COOLDOWN_REDUCTION": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_cooldown_2"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_2", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_PROJECTILE_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_projectile_2"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_2", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_CRITICAL_STRIKE_POWER": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_power_2"},
-		
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3"}}, "model": "minecraft:item/nbt/runecarving/violence_3"},	
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_3"},	
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_PVP_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_pvp_3"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_CRITICAL_STRIKE_CHANCE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_crit_3"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_WEAPON_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_weapon_3"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_MAGIC_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_magic_3"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_COOLDOWN_REDUCTION": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_cooldown_3"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_PROJECTILE_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_projectile_3"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_3", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_CRITICAL_STRIKE_POWER": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_power_3"},
-		
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_4"}}, "model": "minecraft:item/nbt/runecarving/violence_4"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_4", "MMOITEMS_PVE_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_4"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_4", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_PVP_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_pvp_4"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_4", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_CRITICAL_STRIKE_CHANCE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_crit_4"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_4", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_WEAPON_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_weapon_4"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_4", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_MAGIC_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_magic_4"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_4", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_COOLDOWN_REDUCTION": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_cooldown_4"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_4", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_PROJECTILE_DAMAGE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_projectile_4"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_OFFENSE_4", "MMOITEMS_PVE_DAMAGE": ">=0", "MMOITEMS_CRITICAL_STRIKE_POWER": ">=0"}}, "model": "minecraft:item/nbt/runecarving/violence_pve_power_4"},
-		
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "BRANDED_SOUL"}}, "model": "minecraft:item/nbt/materials/branded_soul"}
-    ]
+  "overrides": [
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "DANCING_SPARK" } },
+      "model": "minecraft:item/nbt/materials/dancing_spark"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "LIVING_FIRE" } },
+      "model": "minecraft:item/nbt/materials/living_fire"
+    }
+  ]
 }
-
-
-
-
-
-
-

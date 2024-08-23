@@ -1,13 +1,17 @@
 {
-    "overrides": [
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_BELL"}},"model": "minecraft:item/nbt/implement/implement_bell"},
-		{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "IMPLEMENT_BELL", "MMOITEMS_NAME_PRE": "/.*Tolling.*/"}},"model": "minecraft:item/nbt/implement/tolling_implement_bell"}
-    ]
+  "overrides": [
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "IMPLEMENT_BELL" } },
+      "model": "minecraft:item/nbt/implement/implement_bell"
+    },
+    {
+      "predicate": {
+        "nbt": {
+          "MMOITEMS_ITEM_ID": "IMPLEMENT_BELL",
+          "MMOITEMS_NAME_PRE": "/.*Tolling.*/"
+        }
+      },
+      "model": "minecraft:item/nbt/implement/tolling_implement_bell"
+    }
+  ]
 }
-
-
-
-
-
-
-

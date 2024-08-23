@@ -50,9 +50,9 @@
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "XBLOODSNOUT_MAGI_HELMET" }
+        "nbt": { "MMOITEMS_ITEM_ID": "BLOODSNOUT_MAGI_HELMET" }
       },
-      "model": "minecraft:item/nbt/armor/bloodsnout_magi_helmet"
+      "model": "minecraft:item/nbt/armor/magic/t4/magic_t4_helm"
     },
     {
       "predicate": {

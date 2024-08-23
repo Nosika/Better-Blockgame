@@ -53,8 +53,8 @@
       "texture": "textures/item/nbt/armor/acolyte_armor_layer_2"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XBLOODSNOUT_MAGI.*/" } },
-      "texture": "textures/item/nbt/armor/bloodsnout_magi_armor_layer_2"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/BLOODSNOUT_MAGI.*/" } },
+      "texture": "textures/item/nbt/armor/magic/magic_t4_layer_2"
     },
     {
       "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XWIZARD.*/" } },

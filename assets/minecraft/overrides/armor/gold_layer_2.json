@@ -11,6 +11,12 @@
         "nbt": { "MMOITEMS_ITEM_ID": "/BLOODSNOUT_SLAYER.*/" }
       },
       "texture": "textures/item/nbt/armor/warrior/warrior_t4_layer_2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BLOODSNOUT_RANGER.*/" }
+      },
+      "texture": "textures/item/nbt/armor/archer/archer_t4_layer_2"
     }
   ]
 }

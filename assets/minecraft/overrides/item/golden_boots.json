@@ -11,6 +11,12 @@
         "nbt": { "MMOITEMS_ITEM_ID": "BLOODSNOUT_SLAYER_BOOTS" }
       },
       "model": "minecraft:item/nbt/armor/warrior/t4/warrior_t4_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "BLOODSNOUT_RANGER_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/archer/t4/archer_t4_boots"
     }
   ]
 }

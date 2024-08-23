@@ -40,3 +40,5 @@ https://opengameart.org/content/rpg-ui-icons
 64 16x16 food sprites - https://henrysoftware.itch.io/pixel-food
 
 https://opengameart.org/content/16x16-fantasy-tileset
+
+https://opengameart.org/content/shiny-rpg-potions-16x16

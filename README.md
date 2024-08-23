@@ -1,6 +1,6 @@
 # Better Blockgame
 
-This is a resource pack made for blockgame, a minecraft server owned by PirateSoftware. This pack would not have been possible if not for Notker (Meridanus), who wrote a previous resource pack for blockgame, helping greatly with the code and file structurefor this pack. 
+This is a resource pack made for blockgame, a minecraft server owned by PirateSoftware. This pack would not have been possible if not for Notker (Meridanus), who wrote a previous resource pack for blockgame, helping greatly with the code and file structurefor this pack. This pack is not official in any way - just meant so you have a better time playing blockgame!
 
 The textures in this pack consist of designs unique to this pack, designs from other packs, and designs from other games. Thank you to Tylerrrr and the FurfSky team for the source of many of the textures - you can find their pack for Hypixel Skyblock at furfsky.net and their discord at https://discord.com/invite/fsr
 

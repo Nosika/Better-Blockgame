@@ -1,4 +1,4 @@
-# Basic Blockgame
+# Better Blockgame
 
 This is a resource pack made for blockgame, a minecraft server owned by PirateSoftware. This pack would not have been possible if not for Notker (Meridanus), who wrote a previous resource pack for blockgame, helping greatly with the code and file structurefor this pack. 
 

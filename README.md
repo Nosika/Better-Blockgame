@@ -38,5 +38,3 @@ Flick's pixels - https://old-flick.itch.io/flicks-pixels
 64 16x16 food sprites - https://henrysoftware.itch.io/pixel-food
 
 https://opengameart.org/content/16x16-fantasy-tileset
-
-https://opengameart.org/content/cc0-food-icons

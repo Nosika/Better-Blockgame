@@ -26,3 +26,13 @@ Some textures from terraria - https://terraria.fandom.com/wiki/Terraria_Wiki
 A terraria for minecraft pack that inspired me - https://www.curseforge.com/minecraft/texture-packs/terrapack3d
 
 The piratesoftware discord where I discuss the pack - https://discord.gg/piratesoftware
+
+Kyrise's Free 16x16 RPG Icon Pack - https://opengameart.org/content/kyrises-free-16x16-rpg-icon-pack
+
+16x16 Assorted RPG Icons - https://opengameart.org/content/16x16-assorted-rpg-icons
+
+Flick's pixels - https://old-flick.itch.io/flicks-pixels
+
+7Soul1 16x16 RPG Icons - Pack 1 - Free Sample - https://www.deviantart.com/7soul1/art/16x16-RPG-Icons-Pack-1-Free-Sample-467188465
+
+64 16x16 food sprites - https://henrysoftware.itch.io/pixel-food

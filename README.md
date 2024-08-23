@@ -33,6 +33,8 @@ Kyrise's Free 16x16 RPG Icon Pack - https://opengameart.org/content/kyrises-free
 
 Flick's pixels - https://old-flick.itch.io/flicks-pixels
 
+https://opengameart.org/content/rpg-ui-icons
+
 7Soul1 16x16 RPG Icons - Pack 1 - Free Sample - https://www.deviantart.com/7soul1/art/16x16-RPG-Icons-Pack-1-Free-Sample-467188465
 
 64 16x16 food sprites - https://henrysoftware.itch.io/pixel-food

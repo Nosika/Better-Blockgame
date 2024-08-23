@@ -4,8 +4,12 @@ This is a resource pack made for blockgame, a minecraft server owned by PirateSo
 
 The textures in this pack consist of designs unique to this pack, designs from other packs, and designs from other games. Thank you to Tylerrrr and the FurfSky team for the source of many of the textures - you can find their pack for Hypixel Skyblock at furfsky.net and their discord at https://discord.com/invite/fsr
 
+# How to use
+
 To use this resource pack, you need to install Chime:
 https://modrinth.com/mod/chime
+
+Download the resource pack in the releases tab on the right and drag it into your resource pack folder
 
 # Contributing
 

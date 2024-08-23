@@ -1,0 +1,54 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "ZOMBIE_LEATHER"}
+      },
+      "model": "minecraft:item/nbt/materials/zombie_leather"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FISH_LEATHER"}
+      },
+      "model": "minecraft:item/nbt/materials/fish_leather"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PRISTINE_HIDE"}
+      },
+      "model": "minecraft:item/nbt/materials/pristine_hide"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CHILLED_HIDE"}
+      },
+      "model": "minecraft:item/nbt/materials/chilled_hide"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "HAUNTED_HIDE"}
+      },
+      "model": "minecraft:item/nbt/materials/haunted_hide"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "GREASY_HIDE"}
+      },
+      "model": "minecraft:item/nbt/materials/greasy_hide"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "CRYSTAL_HIDE"}
+      },
+      "model": "minecraft:item/nbt/materials/crystal_hide"
+    },
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "FROZEN_HIDE"}}, "model": "minecraft:item/nbt/materials/frozen_hide"}
+  ]
+}
+
+
+
+
+
+
+

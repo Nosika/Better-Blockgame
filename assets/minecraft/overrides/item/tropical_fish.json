@@ -1,0 +1,16 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "FISH_GLOWFISH" }
+      },
+      "model": "minecraft:item/nbt/materials/fish_glowfish"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "FISH_FUNGALFISH" }
+      },
+      "model": "minecraft:item/nbt/materials/fish_fungalfish"
+    }
+  ]
+}

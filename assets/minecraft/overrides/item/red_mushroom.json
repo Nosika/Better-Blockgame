@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "MEGA_MUSHROOM"}
+            },
+            "model": "minecraft:item/nbt/materials/mega_mushroom"
+        }
+    ]
+}
+
+
+
+
+
+
+

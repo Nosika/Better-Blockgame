@@ -1,0 +1,13 @@
+{
+  "overrides": [
+    {"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "TOKEN_ORIGIN_DAILY"}}, "model": "minecraft:item/nbt/quests/token_origin_daily"},
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RIGHTEOUS_SOUL"}}, "model": "minecraft:item/nbt/materials/righteous_soul"}
+  ]
+}
+
+
+
+
+
+
+

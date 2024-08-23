@@ -1,0 +1,29 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "ROASTED_APPLE"}
+      },
+      "model": "minecraft:item/nbt/consumables/roasted_apple"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "GRILLED_APPLE"}
+      },
+      "model": "minecraft:item/nbt/consumables/grilled_apple"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_ID": "SMOKED_APPLE"}
+      },
+      "model": "minecraft:item/nbt/consumables/smoked_apple"
+    }
+  ]
+}
+
+
+
+
+
+
+

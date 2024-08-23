@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "name": "Filter"
+      },
+      "model": "minecraft:item/nbt/ui/flint_filter"
+    }
+  ]
+}
+
+
+
+
+
+
+

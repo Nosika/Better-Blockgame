@@ -1,0 +1,12 @@
+{
+  "overrides": [
+	{"predicate": { "nbt": {"MMOITEMS_ITEM_ID": "CORRUPTED_SOUL"}}, "model": "minecraft:item/nbt/materials/corrupted_soul"}
+  ]
+}
+
+
+
+
+
+
+

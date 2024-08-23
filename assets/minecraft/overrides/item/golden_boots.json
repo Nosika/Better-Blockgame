@@ -1,0 +1,16 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "BLOODSNOUT_BRUTE_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/guardian/t4/guardian_t4_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "BLOODSNOUT_SLAYER_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/warrior/t4/warrior_t4_boots"
+    }
+  ]
+}

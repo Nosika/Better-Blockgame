@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/STEEL.*/" }
+      },
+      "texture": "textures/item/nbt/armor/guardian/guardian_t3_layer_2"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "STRONG_BOW" }
+      },
+      "model": "minecraft:item/nbt/bows/t1_bow/t1_bow"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "STRONG_BOW" },
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/t1_bow/t1_bow_p0"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "STRONG_BOW" },
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/t1_bow/t1_bow_p1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "STRONG_BOW" },
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/t1_bow/t1_bow_p2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T1_RANDOM_BOW" }
+      },
+      "model": "minecraft:item/nbt/bows/t1_bow/t1_bow"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T1_RANDOM_BOW" },
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/t1_bow/t1_bow_p0"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T1_RANDOM_BOW" },
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/t1_bow/t1_bow_p1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T1_RANDOM_BOW" },
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/t1_bow/t1_bow_p2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SKELETAL_BOW" }
+      },
+      "model": "minecraft:item/nbt/bows/t2_bow/t2_bow"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SKELETAL_BOW" },
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/t2_bow/t2_bow_p0"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SKELETAL_BOW" },
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/t2_bow/t2_bow_p1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SKELETAL_BOW" },
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/t2_bow/t2_bow_p2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T2_RANDOM_BOW" }
+      },
+      "model": "minecraft:item/nbt/bows/t2_bow/t2_bow"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T2_RANDOM_BOW" },
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/t2_bow/t2_bow_p0"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T2_RANDOM_BOW" },
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/t2_bow/t2_bow_p1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T2_RANDOM_BOW" },
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/t2_bow/t2_bow_p2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "UNSETTLING_BOW" }
+      },
+      "model": "minecraft:item/nbt/bows/t3_bow/t3_bow"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "UNSETTLING_BOW" },
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/t3_bow/t3_bow_p0"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "UNSETTLING_BOW" },
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/t3_bow/t3_bow_p1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "UNSETTLING_BOW" },
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/t3_bow/t3_bow_p2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T3_RANDOM_BOW" }
+      },
+      "model": "minecraft:item/nbt/bows/t3_bow/t3_bow"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T3_RANDOM_BOW" },
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/t3_bow/t3_bow_p0"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T3_RANDOM_BOW" },
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/t3_bow/t3_bow_p1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T3_RANDOM_BOW" },
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/t3_bow/t3_bow_p2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW" }
+      },
+      "model": "minecraft:item/nbt/bows/t4_bow/t4_bow"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW" },
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/t4_bow/t4_bow_p0"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW" },
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/t4_bow/t4_bow_p1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "PIGGLY_WIGGLY_BOW" },
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/t4_bow/t4_bow_p2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T4_RANDOM_BOW" }
+      },
+      "model": "minecraft:item/nbt/bows/t4_bow/t4_bow"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T4_RANDOM_BOW" },
+        "pulling": 1
+      },
+      "model": "minecraft:item/nbt/bows/t4_bow/t4_bow_p0"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T4_RANDOM_BOW" },
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "minecraft:item/nbt/bows/t4_bow/t4_bow_p1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "T4_RANDOM_BOW" },
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "minecraft:item/nbt/bows/t4_bow/t4_bow_p2"
+    }
+  ]
+}

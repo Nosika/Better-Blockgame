@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "BOLT_SILK" } },
+      "model": "minecraft:item/nbt/materials/bolt_silk"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "BOLT_WOOL" } },
+      "model": "minecraft:item/nbt/materials/bolt_wool"
+    }
+  ]
+}

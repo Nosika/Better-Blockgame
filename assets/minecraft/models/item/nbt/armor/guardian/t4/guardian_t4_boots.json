@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/nbt/armor/blank",
+    "layer1": "minecraft:item/nbt/armor/guardian/guardian_t4_boots"
+  }
+}

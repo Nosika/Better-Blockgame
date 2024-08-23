@@ -1,0 +1,18 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "PRISTINE_WOOD"}
+            },
+            "model": "minecraft:item/nbt/materials/pristine_wood"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+

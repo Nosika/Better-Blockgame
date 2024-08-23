@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "MYTHRIL_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/warrior/t3/warrior_t3_boots"
+    }
+  ]
+}

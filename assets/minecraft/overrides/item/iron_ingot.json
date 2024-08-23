@@ -1,0 +1,23 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "MYTHRIL_INGOT"}
+      },
+      "model": "minecraft:item/nbt/materials/mythril_ingot"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "STEEL_INGOT"}
+      },
+      "model": "minecraft:item/nbt/materials/steel_ingot"
+    }
+  ]
+}
+
+
+
+
+
+
+

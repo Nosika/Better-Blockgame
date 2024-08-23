@@ -1,0 +1,22 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "COMMON_SHELL" }
+      },
+      "model": "minecraft:item/nbt/materials/common_shell"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "PRETTY_SHELL" }
+      },
+      "model": "minecraft:item/nbt/materials/pretty_shell"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "FANCY_SHELL" }
+      },
+      "model": "minecraft:item/nbt/materials/fancy_shell"
+    }
+  ]
+}

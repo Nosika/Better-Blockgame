@@ -1,0 +1,84 @@
+{
+  "overrides": [
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST.*/" } },
+      "texture": "textures/item/nbt/armor/professions/botanist_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/FISHERMAN.*/" } },
+      "texture": "textures/item/nbt/armor/professions/fisherman_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/LUMBERJACK.*/" } },
+      "texture": "textures/item/nbt/armor/professions/lumberjack_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/MINER.*/" } },
+      "texture": "textures/item/nbt/armor/professions/miner_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST.*/" } },
+      "texture": "textures/item/nbt/armor/professions/archaeologist_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/ONION.*/" } },
+      "texture": "textures/item/nbt/armor/onion/onion_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/CACTUS.*/" } },
+      "texture": "textures/item/nbt/armor/warrior/warrior_t1_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/STONE.*/" } },
+      "texture": "textures/item/nbt/armor/warrior/warrior_t2_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/WOOD.*/" } },
+      "texture": "textures/item/nbt/armor/guardian/guardian_t1_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/COPPER.*/" } },
+      "texture": "textures/item/nbt/armor/guardian/guardian_t2_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XSILK.*/" } },
+      "texture": "textures/item/nbt/armor/silk_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XSPARKING_SILK.*/" } },
+      "texture": "textures/item/nbt/armor/sparkling_silk_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XACOLYTE.*/" } },
+      "texture": "textures/item/nbt/armor/acolyte_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XBLOODSNOUT_MAGI.*/" } },
+      "texture": "textures/item/nbt/armor/bloodsnout_magi_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XWIZARD.*/" } },
+      "texture": "textures/item/nbt/armor/wizard_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XWOOL.*/" } },
+      "texture": "textures/item/nbt/armor/wool_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XBLESSED_WOOL.*/" } },
+      "texture": "textures/item/nbt/armor/blessed_wool_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XSANCTIFIED.*/" } },
+      "texture": "textures/item/nbt/armor/sanctified_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XBLOODSNOUT_HEALER.*/" } },
+      "texture": "textures/item/nbt/armor/bloodsnout_healer_armor_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XGLOWING.*/" } },
+      "texture": "textures/item/nbt/armor/glowing_armor_layer_1"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "STARTER_CHRISTMAS"}
+            },
+            "model": "minecraft:item/nbt/quests/starter_christmas"
+        }
+    ]
+}
+
+
+
+
+
+
+

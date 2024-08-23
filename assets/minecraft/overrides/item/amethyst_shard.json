@@ -1,0 +1,16 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "INFUSED_CRYSTAL" }
+      },
+      "model": "minecraft:item/nbt/materials/infused_crystal"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "COMPRESSED_CRYSTAL" }
+      },
+      "model": "minecraft:item/nbt/materials/compressed_crystal"
+    }
+  ]
+}

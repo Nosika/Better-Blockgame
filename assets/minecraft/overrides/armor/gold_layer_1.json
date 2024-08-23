@@ -1,0 +1,16 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BLOODSNOUT_BRUTE.*/" }
+      },
+      "texture": "textures/item/nbt/armor/guardian/guardian_t4_layer_1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BLOODSNOUT_SLAYER.*/" }
+      },
+      "texture": "textures/item/nbt/armor/warrior/warrior_t4_layer_1"
+    }
+  ]
+}

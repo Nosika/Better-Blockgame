@@ -1,0 +1,23 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "CURIOUS_DEVICE"}
+            },
+            "model": "minecraft:item/nbt/materials/curious_device"
+        },
+	{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "UNCANNY_CUBE"}
+            },
+            "model": "minecraft:item/nbt/materials/uncanny_cube"
+        }
+    ]
+}
+
+
+
+
+
+
+

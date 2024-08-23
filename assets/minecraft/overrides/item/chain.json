@@ -1,0 +1,14 @@
+{
+  "overrides": [
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KROGNARS_MACE"}}, "model": "minecraft:item/nbt/swords/krognars_mace"},
+    {"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "KROGNARS_MACE", "MMOITEMS_NAME_PRE": "/.*Bedazzled.*/"}}, "model": "minecraft:item/nbt/swords/bedazzled_krognars_mace"}
+	
+  ]
+}
+
+
+
+
+
+
+

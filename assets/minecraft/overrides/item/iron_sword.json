@@ -1,0 +1,17 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "UNSETTLING_BLADE"}
+      },
+      "model": "minecraft:item/nbt/swords/t3_sword"
+    }
+  ]
+}
+
+
+
+
+
+
+

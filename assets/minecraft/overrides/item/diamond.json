@@ -1,0 +1,63 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "INFUSED_DIAMOND"}
+      },
+      "model": "minecraft:item/nbt/materials/infused_diamond"
+    },
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "COMPRESSED_DIAMOND"}
+      },
+      "model": "minecraft:item/nbt/materials/compressed_diamond"
+    },
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "DIAMOND_SHIELD"}},"model": "minecraft:item/nbt/divine_wards/diamond_shield"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "DIAMOND_SHIELD", "MMOITEMS_NAME_PRE": "/.*Immortal.*/"}},"model": "minecraft:item/nbt/divine_wards/immortal_diamond_shield"},
+	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_1"} }, "model": "minecraft:item/nbt/runecarving/serenity_1" },	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_1", "MMOITEMS_DEFENSE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_1" },	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_1", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_COOLDOWN_REDUCTION": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_cooldown_1" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_1", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_MAX_HEALTH": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_health_1" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_1", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_POWER": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_power_1" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_1", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_KNOCKBACK_RESISTANCE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_knockback_1" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_1", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_RATING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_rating_1" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_1", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_FALL_DAMAGE_REDUCTION": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_falldamage_1" },
+	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_2"} }, "model": "minecraft:item/nbt/runecarving/serenity_2" },	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_2", "MMOITEMS_DEFENSE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_2" },	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_2", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_COOLDOWN_REDUCTION": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_cooldown_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_2", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_MAX_HEALTH": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_health_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_2", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_POWER": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_power_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_2", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_KNOCKBACK_RESISTANCE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_knockback_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_2", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_RATING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_rating_2" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_2", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_FALL_DAMAGE_REDUCTION": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_falldamage_2" },
+	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_3"} }, "model": "minecraft:item/nbt/runecarving/serenity_3" },	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_3", "MMOITEMS_DEFENSE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_3" },	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_3", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_COOLDOWN_REDUCTION": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_cooldown_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_3", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_MAX_HEALTH": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_health_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_3", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_POWER": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_power_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_3", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_KNOCKBACK_RESISTANCE": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_knockback_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_3", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_RATING": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_rating_3" },
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_3", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_FALL_DAMAGE_REDUCTION": ">=0"} }, "model": "minecraft:item/nbt/runecarving/serenity_defense_falldamage_3" },
+	
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_4"}}, "model": "minecraft:item/nbt/runecarving/serenity_4"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_4", "MMOITEMS_DEFENSE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/serenity_defense_4"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_4", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_COOLDOWN_REDUCTION": ">=0"}}, "model": "minecraft:item/nbt/runecarving/serenity_defense_cooldown_4"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_4", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_MAX_HEALTH": ">=0"}}, "model": "minecraft:item/nbt/runecarving/serenity_defense_falldamage_4"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_4", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_POWER": ">=0"}}, "model": "minecraft:item/nbt/runecarving/serenity_defense_health_4"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_4", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_KNOCKBACK_RESISTANCE": ">=0"}}, "model": "minecraft:item/nbt/runecarving/serenity_defense_knockback_4"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_4", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_BLOCK_RATING": ">=0"}}, "model": "minecraft:item/nbt/runecarving/serenity_defense_power_4"},
+	{"predicate": {"nbt": {"MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_4", "MMOITEMS_DEFENSE": ">=0", "MMOITEMS_FALL_DAMAGE_REDUCTION": ">=0"}}, "model": "minecraft:item/nbt/runecarving/serenity_defense_rating_4"}
+	
+  ]
+}
+
+
+
+
+
+
+

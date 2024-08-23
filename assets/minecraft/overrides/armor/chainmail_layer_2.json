@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MYTHRIL.*/" }
+      },
+      "texture": "textures/item/nbt/armor/warrior/warrior_t3_layer_2"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "ONION_HELMET" }
+      },
+      "model": "minecraft:item/nbt/armor/onion/onion_helm"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "CACTUS_HELMET" }
+      },
+      "model": "minecraft:item/nbt/armor/warrior/t1/warrior_t1_helm"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "STONE_HELMET" }
+      },
+      "model": "minecraft:item/nbt/armor/warrior/t2/warrior_t2_helm"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "WOODEN_HELMET" }
+      },
+      "model": "minecraft:item/nbt/armor/guardian/t1/guardian_t1_helm"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "COPPER_HELMET" }
+      },
+      "model": "minecraft:item/nbt/armor/guardian/t2/guardian_t2_helm"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XSILK_HELMET" }
+      },
+      "model": "minecraft:item/nbt/armor/silk_helmet"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XSPARKING_SILK_HELMET" }
+      },
+      "model": "minecraft:item/nbt/armor/sparking_silk_helmet"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XACOLYTE_HELMET" }
+      },
+      "model": "minecraft:item/nbt/armor/acolyte_helmet"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XBLOODSNOUT_MAGI_HELMET" }
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_magi_helmet"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_HELMET.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist_helmet"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/FISHERMAN_HELMET.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/fisherman_helmet"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/LUMBERJACK_HELMET.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/lumberjack_helmet"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_HELMET.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner_helmet"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST_HELMET.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/archaeologist_helmet"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XWOOL_HELMET" } },
+      "model": "minecraft:item/nbt/armor/wool_helmet"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XBLESSED_WOOL_HELMET" } },
+      "model": "minecraft:item/nbt/armor/blessed_wool_helmet"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XSANCTIFIED_HELMET" } },
+      "model": "minecraft:item/nbt/armor/sanctified_helmet"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XBLOODSNOUT_HEALER_HELMET" }
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_healer_helmet"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XGLOWING_HELMET" } },
+      "model": "minecraft:item/nbt/armor/glowing_helmet"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_WHEAT"}
+            },
+            "model": "minecraft:item/nbt/materials/golden_wheat"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "SENTIENT_WHEAT"}
+            },
+            "model": "minecraft:item/nbt/materials/sentient_wheat"
+        }
+    ]
+}
+
+
+
+
+
+
+

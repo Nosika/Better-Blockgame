@@ -1,0 +1,24 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GOLDEN_RING"}
+            },
+            "model": "minecraft:item/nbt/materials/golden_ring"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "GLOWING_MOTE"}
+            },
+            "model": "minecraft:item/nbt/materials/glowing_mote"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+

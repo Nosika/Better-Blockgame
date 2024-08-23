@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "TOUGH_ROOTS"}
+      },
+      "model": "minecraft:item/nbt/materials/tough_roots"
+    }
+  ]
+}
+
+
+
+
+
+
+

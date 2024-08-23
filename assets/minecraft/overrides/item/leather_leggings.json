@@ -1,0 +1,114 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "ONION_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/onion/onion_legs"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "CACTUS_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/warrior/t1/warrior_t1_legs"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "STONE_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/warrior/t2/warrior_t2_legs"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "WOODEN_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/guardian/t1/guardian_t1_legs"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "COPPER_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/guardian/t2/guardian_t2_legs"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XSILK_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/silk_leggings"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XSPARKING_SILK_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/sparking_silk_leggings"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XACOLYTE_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/acolyte_leggings"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XBLOODSNOUT_MAGI_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_magi_leggings"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_LEGGINGS.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist_leggings"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/FISHERMAN_LEGGINGS.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/fisherman_leggings"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/LUMBERJACK_LEGGINGS.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/lumberjack_leggings"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_LEGGINGS.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner_leggings"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST_LEGGINGS.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/archaeologist_leggings"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XWOOL_LEGGINGS" } },
+      "model": "minecraft:item/nbt/armor/wool_leggings"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XBLESSED_WOOL_LEGGINGS" } },
+      "model": "minecraft:item/nbt/armor/blessed_wool_leggings"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XSANCTIFIED_LEGGINGS" } },
+      "model": "minecraft:item/nbt/armor/sanctified_leggings"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XBLOODSNOUT_HEALER_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_healer_leggings"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XGLOWING_LEGGINGS" } },
+      "model": "minecraft:item/nbt/armor/glowing_leggings"
+    }
+  ]
+}

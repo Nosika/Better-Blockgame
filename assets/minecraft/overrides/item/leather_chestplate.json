@@ -1,0 +1,116 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "ONION_CHESTPLATE" }
+      },
+      "model": "minecraft:item/nbt/armor/onion/onion_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "CACTUS_CHESTPLATE" }
+      },
+      "model": "minecraft:item/nbt/armor/warrior/t1/warrior_t1_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "STONE_CHESTPLATE" }
+      },
+      "model": "minecraft:item/nbt/armor/warrior/t2/warrior_t2_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "WOODEN_CHESTPLATE" }
+      },
+      "model": "minecraft:item/nbt/armor/guardian/t1/guardian_t1_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "COPPER_CHESTPLATE" }
+      },
+      "model": "minecraft:item/nbt/armor/guardian/t2/guardian_t2_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XSILK_CHESTPLATE" }
+      },
+      "model": "minecraft:item/nbt/armor/silk_chestplate"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XSPARKING_SILK_CHESTPLATE" }
+      },
+      "model": "minecraft:item/nbt/armor/sparking_silk_chestplate"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XACOLYTE_CHESTPLATE" }
+      },
+      "model": "minecraft:item/nbt/armor/acolyte_chestplate"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XBLOODSNOUT_MAGI_CHESTPLATE" }
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_magi_chestplate"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_CHESTPLATE.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist_chestplate"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/FISHERMAN_CHESTPLATE.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/fisherman_chestplate"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/LUMBERJACK_CHESTPLATE.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/lumberjack_chestplate"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_CHESTPLATE.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner_chestplate"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST_CHESTPLATE.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/archaeologist_chestplate"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XWOOL_CHESTPLATE" } },
+      "model": "minecraft:item/nbt/armor/wool_chestplate"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XBLESSED_WOOL_CHESTPLATE" }
+      },
+      "model": "minecraft:item/nbt/armor/blessed_wool_chestplate"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XSANCTIFIED_CHESTPLATE" } },
+      "model": "minecraft:item/nbt/armor/sanctified_chestplate"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XBLOODSNOUT_HEALER_CHESTPLATE" }
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_healer_chestplate"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XGLOWING_CHESTPLATE" } },
+      "model": "minecraft:item/nbt/armor/glowing_chestplate"
+    }
+  ]
+}

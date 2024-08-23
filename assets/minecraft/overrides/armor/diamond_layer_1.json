@@ -1,0 +1,30 @@
+{
+  "overrides": [
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "DIAMOND"}
+      },
+      "texture": "textures/item/nbt/armor/diamond_armor_layer_1"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "DIAMOND",
+				"MMOITEMS_NAME_PRE": "/.*Immortal.*/"}
+      },
+      "texture": "textures/item/nbt/armor/immortal/diamond_armor_layer_1"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "POLAR"}
+      },
+      "texture": "textures/item/nbt/armor/polar_armor_layer_1"
+    },
+	{
+      "predicate": {
+          "nbt": {"MMOITEMS_ITEM_SET": "POLAR",
+				"MMOITEMS_NAME_PRE": "/.*Hefty.*/"}
+      },
+      "texture": "textures/item/nbt/armor/hefty/polar_armor_layer_1"
+    }
+  ]
+}

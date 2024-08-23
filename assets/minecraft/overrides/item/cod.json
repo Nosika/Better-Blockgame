@@ -1,0 +1,40 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "FISH_WOODFISH" }
+      },
+      "model": "minecraft:item/nbt/materials/fish_woodfish"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "FISH_STONEFISH" }
+      },
+      "model": "minecraft:item/nbt/materials/fish_stonefish"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "FISH_BADFISH" }
+      },
+      "model": "minecraft:item/nbt/materials/fish_badfish"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "FISH_DARKFISH" }
+      },
+      "model": "minecraft:item/nbt/consumables/fish_darkfish"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "GOLDEN_GUPPY" }
+      },
+      "model": "minecraft:item/nbt/currencys/golden_guppy"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "FISH_SALTFISH" }
+      },
+      "model": "minecraft:item/nbt/materials/salt_fish"
+    }
+  ]
+}

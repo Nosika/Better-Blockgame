@@ -1,0 +1,23 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_PATCH_LEATHER"}
+      },
+      "model": "minecraft:item/nbt/consumables/repair_patch_leather"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "REPAIR_PATCH_ZOMBIE"}
+      },
+      "model": "minecraft:item/nbt/consumables/repair_patch_zombie"
+    }
+  ]
+}
+
+
+
+
+
+
+

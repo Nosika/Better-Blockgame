@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_BLOODSNOUT"}
+            },
+            "model": "minecraft:item/nbt/offhands/bacon_plush"
+        }
+    ]
+}
+
+
+
+
+
+
+

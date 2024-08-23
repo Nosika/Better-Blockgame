@@ -1,0 +1,84 @@
+{
+  "overrides": [
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/FISHERMAN.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/LUMBERJACK.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/MINER.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/ONION.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/CACTUS.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/STONE.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/WOOD.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/COPPER.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XSILK.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XSPARKING_SILK.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XACOLYTE.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XBLOODSNOUT_MAGI.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XWIZARD.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XWOOL.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XBLESSED_WOOL.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XSANCTIFIED.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XBLOODSNOUT_HEALER.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XGLOWING.*/" } },
+      "texture": "textures/item/nbt/potions/empty"
+    }
+  ]
+}

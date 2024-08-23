@@ -1,0 +1,61 @@
+{
+  "overrides": [
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "NECRONOMICON" } },
+      "model": "minecraft:item/nbt/materials/necronomicon"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "SOGGY_BOOK" } },
+      "model": "minecraft:item/nbt/materials/soggy_book"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/.*FIREBOLT.*/" } },
+      "model": "minecraft:item/nbt/tomes/firebolt"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/.*FROSTBOLT.*/" } },
+      "model": "minecraft:item/nbt/tomes/frostbolt"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/.*CORRUPTION.*/" } },
+      "model": "minecraft:item/nbt/tomes/corruption"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/.*REGENERATION.*/" } },
+      "model": "minecraft:item/nbt/tomes/regeneration"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/.*FLASH_HEAL.*/" } },
+      "model": "minecraft:item/nbt/tomes/flash_heal"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/.*RING_OF_MERCY.*/" } },
+      "model": "minecraft:item/nbt/tomes/ring_of_mercy"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/.*LIFE_DRAIN.*/" } },
+      "model": "minecraft:item/nbt/tomes/life_drain"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/.*PRESSURE_WAVE.*/" } },
+      "model": "minecraft:item/nbt/tomes/pressure_wave"
+    },
+
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/.*COLLAPSING_EARTH.*/" } },
+      "model": "minecraft:item/nbt/tomes/collapsing_earth"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/.*RECIPE.*/" } },
+      "model": "minecraft:item/nbt/tomes/recipe_book"
+    }
+  ]
+}

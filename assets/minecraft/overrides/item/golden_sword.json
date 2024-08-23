@@ -1,0 +1,24 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "BLOODSNOUT_BLADE"}
+            },
+            "model": "minecraft:item/nbt/swords/t4_sword"
+        },
+		{
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "KROGNARS_BLADE"}
+            },
+            "model": "minecraft:item/nbt/swords/krognars_blade"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+

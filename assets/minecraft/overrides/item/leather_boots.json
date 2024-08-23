@@ -1,0 +1,110 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "ONION_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/onion/onion_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "CACTUS_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/warrior/t1/warrior_t1_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "STONE_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/warrior/t2/warrior_t2_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "WOODEN_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/guardian/t1/guardian_t1_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "COPPER_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/guardian/t2/guardian_t2_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XSILK_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/silk_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XSPARKING_SILK_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/sparking_silk_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XACOLYTE_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/acolyte_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XBLOODSNOUT_MAGI_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_magi_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_BOOTS.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/FISHERMAN_BOOTS.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/fisherman_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/LUMBERJACK_BOOTS.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/lumberjack_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_BOOTS.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/ARCHAEOLOGIST_BOOTS.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/archaeologist_boots"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XWOOL_BOOTS" } },
+      "model": "minecraft:item/nbt/armor/wool_boots"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XBLESSED_WOOL_BOOTS" } },
+      "model": "minecraft:item/nbt/armor/blessed_wool_boots"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XSANCTIFIED_BOOTS" } },
+      "model": "minecraft:item/nbt/armor/sanctified_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "XBLOODSNOUT_HEALER_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/bloodsnout_healer_boots"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XGLOWING_BOOTS" } },
+      "model": "minecraft:item/nbt/armor/glowing_boots"
+    }
+  ]
+}

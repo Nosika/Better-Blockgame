@@ -1,0 +1,31 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "METEOR_SHARD"}
+      },
+      "model": "minecraft:item/nbt/materials/meteor_shard"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FLICKERING_FROST"}
+      },
+      "model": "minecraft:item/nbt/materials/flickering_frost"
+    },
+	{
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "FROZEN_STAR"}
+      },
+      "model": "minecraft:item/nbt/materials/frozen_star"
+    },
+	
+	{ "predicate": { "nbt": {"MMOITEMS_ITEM_ID": "FROZEN_SOUL"} }, "model": "minecraft:item/nbt/materials/frozen_soul" }
+  ]
+}
+
+
+
+
+
+
+

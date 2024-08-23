@@ -1,0 +1,23 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "CACTUS_SWORD"}
+            },
+            "model": "minecraft:item/nbt/swords/t1_sword"
+        },
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "ONION_SWORD"}
+            },
+            "model": "minecraft:item/nbt/swords/onion_sword"
+        }
+    ]
+}
+
+
+
+
+
+
+

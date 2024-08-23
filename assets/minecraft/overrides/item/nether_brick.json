@@ -1,0 +1,18 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "TOKEN_HUNTER_OUTPOST_DESTROYED"}
+            },
+            "model": "minecraft:item/nbt/quests/token_hunter_pillager_destroyed"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+

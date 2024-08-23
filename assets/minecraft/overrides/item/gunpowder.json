@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {"MMOITEMS_ITEM_ID": "PEPPER"}
+      },
+      "model": "minecraft:item/nbt/materials/pepper"
+    }
+  ]
+}
+
+
+
+
+
+
+

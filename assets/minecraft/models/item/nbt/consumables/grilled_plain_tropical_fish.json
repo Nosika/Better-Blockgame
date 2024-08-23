@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/nbt/consumables/grilled_plain_tropical_fish"
+    }
+}

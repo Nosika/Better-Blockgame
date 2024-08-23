@@ -1,0 +1,17 @@
+{
+    "overrides": [
+        {
+            "predicate": {
+                "nbt": {"MMOITEMS_ITEM_ID": "TASTY_MELON_POP"}
+            },
+            "model": "minecraft:item/nbt/consumables/tasty_melon_pop"
+        }
+    ]
+}
+
+
+
+
+
+
+

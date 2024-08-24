@@ -2,97 +2,67 @@
   "overrides": [
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_FLINT"}
+        "nbt": { "MMOITEMS_ITEM_ID": "QUIVER_FLINT" }
+      },
+      "model": "minecraft:item/nbt/quivers/quiver_flint"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "QUIVER_SERRATED" }
       },
       "model": "minecraft:item/nbt/quivers/quiver_all"
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SERRATED"}
+        "nbt": { "MMOITEMS_ITEM_ID": "QUIVER_ROTTEN" }
       },
-      "model": "minecraft:item/nbt/quivers/quiver_all"
+      "model": "minecraft:item/nbt/quivers/quiver_rotten"
     },
-	{
+    {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_FLINT", "MMOITEMS_NAME_PRE": "/.*Serrated.*/"}
+        "nbt": { "MMOITEMS_ITEM_ID": "QUIVER_TACKY" }
+      },
+      "model": "minecraft:item/nbt/quivers/quiver_tacky"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "QUIVER_BURNING" }
+      },
+      "model": "minecraft:item/nbt/quivers/quiver_burning"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "QUIVER_POISON" }
+      },
+      "model": "minecraft:item/nbt/quivers/quiver_poison"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "QUIVER_VENOM" }
       },
       "model": "minecraft:item/nbt/quivers/quiver_all"
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_ROTTEN"}
+        "nbt": { "MMOITEMS_ITEM_ID": "QUIVER_HORRIFYING" }
       },
       "model": "minecraft:item/nbt/quivers/quiver_all"
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_TACKY"}
+        "nbt": { "MMOITEMS_ITEM_ID": "QUIVER_STICKY" }
       },
       "model": "minecraft:item/nbt/quivers/quiver_all"
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_BURNING"}
+        "nbt": { "MMOITEMS_ITEM_ID": "QUIVER_SATET" }
       },
       "model": "minecraft:item/nbt/quivers/quiver_all"
     },
     {
       "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_POISON"}
-      },
-      "model": "minecraft:item/nbt/quivers/quiver_all"
-    },
-    {
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_VENOM"}
-      },
-      "model": "minecraft:item/nbt/quivers/quiver_all"
-    },
-    {
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_HORRIFYING"}
-      },
-      "model": "minecraft:item/nbt/quivers/quiver_all"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SPARKING", "MMOITEMS_NAME_PRE": "/.*Volatile.*/"}
-      },
-      "model": "minecraft:item/nbt/quivers/quiver_all"
-    },
-    {
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_STICKY"}
-      },
-      "model": "minecraft:item/nbt/quivers/quiver_all"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_UNSETTLING", "MMOITEMS_NAME_PRE": "/.*Haunted.*/"}
-      },
-      "model": "minecraft:item/nbt/quivers/quiver_all"
-    },
-    {
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_SATET"}
-      },
-      "model": "minecraft:item/nbt/quivers/quiver_all"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_GREASY", "MMOITEMS_NAME_PRE": "/.*Oozing.*/"}
-      },
-      "model": "minecraft:item/nbt/quivers/quiver_all"
-    },
-    {
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_CRYSTALLINE"}
-      },
-      "model": "minecraft:item/nbt/quivers/quiver_all"
-    },
-	{
-      "predicate": {
-        "nbt": {"MMOITEMS_ITEM_ID": "QUIVER_CRYSTALLINE", "MMOITEMS_NAME_PRE": "/.*Shattering.*/"}
+        "nbt": { "MMOITEMS_ITEM_ID": "QUIVER_CRYSTALLINE" }
       },
       "model": "minecraft:item/nbt/quivers/quiver_all"
     }

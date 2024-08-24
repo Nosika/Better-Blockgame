@@ -10,25 +10,25 @@
       "predicate": {
         "nbt": { "MMOITEMS_ITEM_ID": "REPAIR_POWDER_COMMON" }
       },
-      "model": "minecraft:item/nbt/consumables/common_repair_powder"
+      "model": "minecraft:item/nbt/consumables/powders/repair_common"
     },
     {
       "predicate": {
         "nbt": { "MMOITEMS_ITEM_ID": "REPAIR_POWDER_UNCOMMON" }
       },
-      "model": "minecraft:item/nbt/consumables/uncommon_repair_powder"
+      "model": "minecraft:item/nbt/consumables/powders/repair_uncommon"
     },
     {
       "predicate": {
         "nbt": { "MMOITEMS_ITEM_ID": "REPAIR_POWDER_RARE" }
       },
-      "model": "minecraft:item/nbt/consumables/rare_repair_powder"
+      "model": "minecraft:item/nbt/consumables/powders/repair_rare"
     },
     {
       "predicate": {
         "nbt": { "MMOITEMS_ITEM_ID": "REPAIR_POWDER_EPIC" }
       },
-      "model": "minecraft:item/nbt/consumables/epic_repair_powder"
+      "model": "minecraft:item/nbt/consumables/powders/repair_epic"
     }
   ]
 }

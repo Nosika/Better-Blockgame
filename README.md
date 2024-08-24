@@ -17,6 +17,8 @@ If you'd like to help work on this pack in any way, please let me know by dm-ing
 
 # Links
 
+Credits, resources, and inspiration
+
 Blockgame/Resource pack compatability code based on Notker's pack - https://github.com/Meridanus/BlockGame_Chime_ResurcePack
 
 Many textures from FurfSky - https://furfsky.net/

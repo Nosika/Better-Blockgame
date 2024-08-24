@@ -32,21 +32,39 @@
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "XSILK_BOOTS" }
+        "nbt": { "MMOITEMS_ITEM_ID": "SHARPSHOOTER_BOOTS" }
       },
-      "model": "minecraft:item/nbt/armor/silk_boots"
+      "model": "minecraft:item/nbt/armor/archer/t3/archer_t3_boots"
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "XSPARKING_SILK_BOOTS" }
+        "nbt": { "MMOITEMS_ITEM_ID": "RANGER_BOOTS" }
       },
-      "model": "minecraft:item/nbt/armor/sparking_silk_boots"
+      "model": "minecraft:item/nbt/armor/archer/t2/archer_t2_boots"
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "XACOLYTE_BOOTS" }
+        "nbt": { "MMOITEMS_ITEM_ID": "SHOTCALLER_BOOTS" }
       },
-      "model": "minecraft:item/nbt/armor/acolyte_boots"
+      "model": "minecraft:item/nbt/armor/archer/t1/archer_t1_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SILK_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/magic/t1/magic_t1_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SPARKING_SILK_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/magic/t2/magic_t2_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "ACOLYTE_BOOTS" }
+      },
+      "model": "minecraft:item/nbt/armor/magic/t3/magic_t3_boots"
     },
     {
       "predicate": {
@@ -85,26 +103,22 @@
       "model": "minecraft:item/nbt/armor/professions/archaeologist_boots"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XWOOL_BOOTS" } },
-      "model": "minecraft:item/nbt/armor/wool_boots"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "WOOL_BOOTS" } },
+      "model": "minecraft:item/nbt/armor/thaum/t1/thaum_t1_boots"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XBLESSED_WOOL_BOOTS" } },
-      "model": "minecraft:item/nbt/armor/blessed_wool_boots"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "BLESSED_WOOL_BOOTS" } },
+      "model": "minecraft:item/nbt/armor/thaum/t2/thaum_t2_boots"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XSANCTIFIED_BOOTS" } },
-      "model": "minecraft:item/nbt/armor/sanctified_boots"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "SANCTIFIED_BOOTS" } },
+      "model": "minecraft:item/nbt/armor/thaum/t3/thaum_t3_boots"
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "XBLOODSNOUT_HEALER_BOOTS" }
+        "nbt": { "MMOITEMS_ITEM_ID": "BLOODSNOUT_HEALER_BOOTS" }
       },
-      "model": "minecraft:item/nbt/armor/bloodsnout_healer_boots"
-    },
-    {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XGLOWING_BOOTS" } },
-      "model": "minecraft:item/nbt/armor/glowing_boots"
+      "model": "minecraft:item/nbt/armor/thaum/t4/thaum_t4_boots"
     }
   ]
 }

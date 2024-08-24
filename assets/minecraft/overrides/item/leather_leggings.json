@@ -32,21 +32,39 @@
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "XSILK_LEGGINGS" }
+        "nbt": { "MMOITEMS_ITEM_ID": "SHARPSHOOTER_LEGGINGS" }
       },
-      "model": "minecraft:item/nbt/armor/silk_leggings"
+      "model": "minecraft:item/nbt/armor/archer/t3/archer_t3_legs"
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "XSPARKING_SILK_LEGGINGS" }
+        "nbt": { "MMOITEMS_ITEM_ID": "RANGER_LEGGINGS" }
       },
-      "model": "minecraft:item/nbt/armor/sparking_silk_leggings"
+      "model": "minecraft:item/nbt/armor/archer/t2/archer_t2_legs"
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "XACOLYTE_LEGGINGS" }
+        "nbt": { "MMOITEMS_ITEM_ID": "SHOTCALLER_LEGGINGS" }
       },
-      "model": "minecraft:item/nbt/armor/acolyte_leggings"
+      "model": "minecraft:item/nbt/armor/archer/t1/archer_t1_legs"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SILK_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/magic/t1/magic_t1_legs"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SPARKING_SILK_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/magic/t2/magic_t2_legs"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "ACOLYTE_LEGGINGS" }
+      },
+      "model": "minecraft:item/nbt/armor/magic/t3/magic_t3_legs"
     },
     {
       "predicate": {
@@ -85,25 +103,22 @@
       "model": "minecraft:item/nbt/armor/professions/archaeologist_leggings"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XWOOL_LEGGINGS" } },
-      "model": "minecraft:item/nbt/armor/wool_leggings"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "WOOL_LEGGINGS" } },
+      "model": "minecraft:item/nbt/armor/thaum/t1/thaum_t1_legs"
     },
-
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XBLESSED_WOOL_LEGGINGS" } },
-      "model": "minecraft:item/nbt/armor/blessed_wool_leggings"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "BLESSED_WOOL_LEGGINGS" } },
+      "model": "minecraft:item/nbt/armor/thaum/t2/thaum_t2_legs"
     },
-
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "XSANCTIFIED_LEGGINGS" } },
-      "model": "minecraft:item/nbt/armor/sanctified_leggings"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "SANCTIFIED_LEGGINGS" } },
+      "model": "minecraft:item/nbt/armor/thaum/t3/thaum_t3_legs"
     },
-
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "XBLOODSNOUT_HEALER_LEGGINGS" }
+        "nbt": { "MMOITEMS_ITEM_ID": "BLOODSNOUT_HEALER_LEGGINGS" }
       },
-      "model": "minecraft:item/nbt/armor/bloodsnout_healer_leggings"
+      "model": "minecraft:item/nbt/armor/thaum/t4/thaum_t4_legs"
     },
 
     {

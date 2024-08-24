@@ -41,44 +41,48 @@
       "texture": "textures/item/nbt/armor/guardian/guardian_t2_layer_1"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XSILK.*/" } },
-      "texture": "textures/item/nbt/armor/silk_armor_layer_1"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/SHARPSHOOTER.*/" } },
+      "texture": "textures/item/nbt/armor/archer/archer_t3_layer_1"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XSPARKING_SILK.*/" } },
-      "texture": "textures/item/nbt/armor/sparkling_silk_armor_layer_1"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/RANGER.*/" } },
+      "texture": "textures/item/nbt/armor/archer/archer_t2_layer_1"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XACOLYTE.*/" } },
-      "texture": "textures/item/nbt/armor/acolyte_armor_layer_1"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/SHOTCALLER.*/" } },
+      "texture": "textures/item/nbt/armor/archer/archer_t1_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/SILK.*/" } },
+      "texture": "textures/item/nbt/armor/magic/magic_t1_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/SPARKING_SILK.*/" } },
+      "texture": "textures/item/nbt/armor/magic/magic_t2_layer_1"
+    },
+    {
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/ACOLYTE.*/" } },
+      "texture": "textures/item/nbt/armor/magic/magic_t3_layer_1"
     },
     {
       "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/BLOODSNOUT_MAGI.*/" } },
       "texture": "textures/item/nbt/armor/magic/magic_t4_layer_1"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XWIZARD.*/" } },
-      "texture": "textures/item/nbt/armor/wizard_armor_layer_1"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/WOOL.*/" } },
+      "texture": "textures/item/nbt/armor/thaum/thaum_t1_layer_1"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XWOOL.*/" } },
-      "texture": "textures/item/nbt/armor/wool_armor_layer_1"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/BLESSED_WOOL.*/" } },
+      "texture": "textures/item/nbt/armor/thaum/thaum_t2_layer_1"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XBLESSED_WOOL.*/" } },
-      "texture": "textures/item/nbt/armor/blessed_wool_armor_layer_1"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/SANCTIFIED.*/" } },
+      "texture": "textures/item/nbt/armor/thaum/thaum_t3_layer_1"
     },
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XSANCTIFIED.*/" } },
-      "texture": "textures/item/nbt/armor/sanctified_armor_layer_1"
-    },
-    {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XBLOODSNOUT_HEALER.*/" } },
-      "texture": "textures/item/nbt/armor/bloodsnout_healer_armor_layer_1"
-    },
-    {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/XGLOWING.*/" } },
-      "texture": "textures/item/nbt/armor/glowing_armor_layer_1"
+      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/BLOODSNOUT_HEALER.*/" } },
+      "texture": "textures/item/nbt/armor/thaum/thaum_t4_layer_1"
     }
   ]
 }

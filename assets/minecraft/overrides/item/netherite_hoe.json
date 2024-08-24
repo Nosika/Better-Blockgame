@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "MAGISTEEL_HOE" }
+      },
+      "model": "minecraft:item/nbt/tools/hoes/hoe_t5"
+    }
+  ]
+}

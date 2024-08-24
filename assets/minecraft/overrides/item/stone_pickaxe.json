@@ -1,0 +1,16 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "BRASS_PICKAXE" }
+      },
+      "model": "minecraft:item/nbt/tools/picks/pick_t2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "WOODEN_PICKAXE" }
+      },
+      "model": "minecraft:item/nbt/tools/picks/pick_t1"
+    }
+  ]
+}

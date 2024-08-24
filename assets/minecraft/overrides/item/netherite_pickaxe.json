@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "MAGISTEEL_PICKAXE" }
+      },
+      "model": "minecraft:item/nbt/tools/picks/pick_t5"
+    }
+  ]
+}

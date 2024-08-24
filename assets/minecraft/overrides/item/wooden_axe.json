@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "WOODEN_AXE" }
+      },
+      "model": "minecraft:item/nbt/tools/axes/axe_t1"
+    }
+  ]
+}

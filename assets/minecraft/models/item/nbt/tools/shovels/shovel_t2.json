@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/nbt/tools/t5_rod"
+    "layer0": "minecraft:item/nbt/tools/shovels/shovel_t2"
   }
 }

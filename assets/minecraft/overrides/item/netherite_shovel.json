@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "MAGISTEEL_SHOVEL" }
+      },
+      "model": "minecraft:item/nbt/tools/shovels/shovel_t5"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_ALL" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/all_jam"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_APPLE_1" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/apple/apple1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_APPLE_2" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/apple/apple2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_APPLE_3" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/apple/apple3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_APPLE_4" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/apple/apple4"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_APPLE_5" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/apple/apple5"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_APRICOT_1" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/apricot/apricot1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_APRICOT_2" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/apricot/apricot2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_APRICOT_3" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/apricot/apricot3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_APRICOT_4" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/apricot/apricot4"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_APRICOT_5" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/apricot/apricot5"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_PEACH_1" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/peach/peach1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_PEACH_2" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/peach/peach2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_PEACH_3" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/peach/peach3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_PEACH_4" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/peach/peach4"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_PEACH_5" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/peach/peach5"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_FIG_1" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/fig/fig1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_FIG_2" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/fig/fig2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_FIG_3" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/fig/fig3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_FIG_4" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/fig/fig4"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_FIG_5" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/fig/fig5"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_LEMON_1" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/lemon/lemon1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_LEMON_2" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/lemon/lemon2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_LEMON_3" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/lemon/lemon3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_LEMON_4" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/lemon/lemon4"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_LEMON_5" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/lemon/lemon5"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_ORANGE_1" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/orange/orange1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_ORANGE_2" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/orange/orange2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_ORANGE_3" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/orange/orange3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_ORANGE_4" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/orange/orange4"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_ORANGE_5" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/orange/orange5"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_PLUM_1" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/plum/plum1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_PLUM_2" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/plum/plum2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_PLUM_3" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/plum/plum3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_PLUM_4" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/plum/plum4"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_PLUM_5" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/plum/plum5"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_CHERRY_1" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/cherry/cherry1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_CHERRY_2" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/cherry/cherry2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_CHERRY_3" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/cherry/cherry3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_CHERRY_4" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/cherry/cherry4"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_CHERRY_5" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/cherry/cherry5"
+    },
+
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_FISHY_1" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/fishy/fishy1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_FISHY_2" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/fishy/fishy2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_FISHY_3" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/fishy/fishy3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_FISHY_4" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/fishy/fishy4"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "JAM_FISHY_5" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/jams/fishy/fishy5"
+    }
+  ]
+}

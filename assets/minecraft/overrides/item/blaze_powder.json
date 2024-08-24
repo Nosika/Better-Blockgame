@@ -1,10 +1,6 @@
 {
   "overrides": [
     {
-      "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "DANCING_SPARK" } },
-      "model": "minecraft:item/nbt/materials/dancing_spark"
-    },
-    {
       "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "LIVING_FIRE" } },
       "model": "minecraft:item/nbt/materials/living_fire"
     }

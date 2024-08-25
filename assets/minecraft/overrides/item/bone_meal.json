@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "WHIPPING_WIND" }
+      },
+      "model": "minecraft:item/nbt/materials/whipping_wind"
+    }
+  ]
+}

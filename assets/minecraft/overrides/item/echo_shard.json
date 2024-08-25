@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "CORRUPTED_SHARD" }
+      },
+      "model": "minecraft:item/nbt/materials/corrupted_shard"
+    }
+  ]
+}

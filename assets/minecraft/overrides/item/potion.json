@@ -2,6 +2,36 @@
   "overrides": [
     {
       "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "TEA_QUICKSTEP" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/teas/tea_speed"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "TEA_STOMACH" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/teas/tea_stomach"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "TEA_INVISIBLE" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/teas/tea_invisible"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "TEA_STONESKIN" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/teas/tea_stone"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "TEA_BURNING" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/teas/tea_burning"
+    },
+    {
+      "predicate": {
         "nbt": { "MMOITEMS_ITEM_ID": "JAM_ALL" }
       },
       "model": "minecraft:item/nbt/consumables/potions/jams/all_jam"

@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "BLOODSNOUT_MACE" }
+      },
+      "model": "minecraft:item/nbt/swords/guardian/mace_t4"
+    }
+  ]
+}

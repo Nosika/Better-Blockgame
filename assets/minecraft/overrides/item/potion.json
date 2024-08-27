@@ -2,6 +2,48 @@
   "overrides": [
     {
       "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "EXTRACT_LILAC" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/extracts/extract_lilac"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "EXTRACT_PEONY" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/extracts/extract_peony"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "EXTRACT_ROSE" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/extracts/extract_rose"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "EXTRACT_SUNFLOWER" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/extracts/extract_sunflower"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SMOOTHIE_STAR" }
+      },
+      "model": "minecraft:item/nbt/consumables/potions/teas/smoothie_star"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "HOT_CHOCOLATE" }
+      },
+      "model": "minecraft:item/nbt/consumables/holiday/hot_chocolate"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "EGGNOG" }
+      },
+      "model": "minecraft:item/nbt/consumables/holiday/eggnog"
+    },
+    {
+      "predicate": {
         "nbt": { "MMOITEMS_ITEM_ID": "TEA_QUICKSTEP" }
       },
       "model": "minecraft:item/nbt/consumables/potions/teas/tea_speed"

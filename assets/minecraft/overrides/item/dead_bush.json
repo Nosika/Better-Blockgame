@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "WOODEN_SHIELD" }
+      },
+      "model": "minecraft:item/nbt/offhands/guardian/ward_t1"
+    }
+  ]
+}

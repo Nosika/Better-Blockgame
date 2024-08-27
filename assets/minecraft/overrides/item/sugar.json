@@ -8,6 +8,18 @@
     },
     {
       "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "FLOUR" }
+      },
+      "model": "minecraft:item/nbt/materials/flour"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SENTIENT_FLOUR" }
+      },
+      "model": "minecraft:item/nbt/materials/sentient_flour"
+    },
+    {
+      "predicate": {
         "nbt": { "MMOITEMS_ITEM_ID": "REPAIR_POWDER_COMMON" }
       },
       "model": "minecraft:item/nbt/consumables/powders/repair_common"

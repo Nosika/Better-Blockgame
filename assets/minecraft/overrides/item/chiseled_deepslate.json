@@ -1,18 +1,10 @@
 {
-    "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "TOTEM_STONE"}
-            },
-            "model": "minecraft:item/nbt/offhands/tiny_moai_head"
-        }
-        
-    ]
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "TOTEM_STONE" }
+      },
+      "model": "minecraft:item/nbt/offhands/tiny_moai_head"
+    }
+  ]
 }
-
-
-
-
-
-
-

@@ -5,6 +5,12 @@
         "nbt": { "MMOITEMS_ITEM_ID": "ESSENCE_EARTH" }
       },
       "model": "minecraft:item/nbt/runecarving/essence_earth"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "DOUGH" }
+      },
+      "model": "minecraft:item/nbt/materials/dough"
     }
   ]
 }

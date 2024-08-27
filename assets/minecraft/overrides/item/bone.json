@@ -3,6 +3,18 @@
     {
       "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "ANIMATED_BONE" } },
       "model": "minecraft:item/nbt/materials/animated_bone"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "BONE_SHIELD" }
+      },
+      "model": "minecraft:item/nbt/offhands/guardian/ward_t3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "UNSETTLING_MACE" }
+      },
+      "model": "minecraft:item/nbt/swords/guardian/mace_t3"
     }
   ]
 }

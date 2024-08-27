@@ -1,0 +1,34 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "PIE_PUMPKIN" }
+      },
+      "model": "minecraft:item/nbt/consumables/pies/pie_pumpkin"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "PIE_SWEETBERRY" }
+      },
+      "model": "minecraft:item/nbt/consumables/pies/pie_sweetberry"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "PIE_GLOWBERRY" }
+      },
+      "model": "minecraft:item/nbt/consumables/pies/pie_glowberry"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "PIE_STARGAZY" }
+      },
+      "model": "minecraft:item/nbt/consumables/pies/pie_stargazy"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "PIE_MEAT" }
+      },
+      "model": "minecraft:item/nbt/consumables/pies/pie_meat"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "GOLDEN_FLOUR" }
+      },
+      "model": "minecraft:item/nbt/materials/golden_flour"
+    }
+  ]
+}

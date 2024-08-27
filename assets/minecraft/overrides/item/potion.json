@@ -2,6 +2,42 @@
   "overrides": [
     {
       "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "GRAVY" }
+      },
+      "model": "minecraft:item/nbt/materials/cooking/gravy"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "GOLDEN_GRAVY" }
+      },
+      "model": "minecraft:item/nbt/materials/cooking/golden_gravy"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SENTIENT_GRAVY" }
+      },
+      "model": "minecraft:item/nbt/materials/cooking/sentient_gravy"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "GRAVY_ANIMATED" }
+      },
+      "model": "minecraft:item/nbt/materials/cooking/groovy"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "GOLDEN_GRAVY_ANIMATED" }
+      },
+      "model": "minecraft:item/nbt/materials/cooking/golden_groovy"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SENTIENT_GRAVY_ANIMATED" }
+      },
+      "model": "minecraft:item/nbt/materials/cooking/sentient_groovy"
+    },
+    {
+      "predicate": {
         "nbt": { "MMOITEMS_ITEM_ID": "EXTRACT_LILAC" }
       },
       "model": "minecraft:item/nbt/consumables/potions/extracts/extract_lilac"

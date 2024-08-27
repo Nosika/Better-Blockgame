@@ -1,0 +1,22 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "RAW_APRICOT" }
+      },
+      "model": "minecraft:item/nbt/consumables/fruit/raw_apricot"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "RAW_ORANGE" }
+      },
+      "model": "minecraft:item/nbt/consumables/fruit/raw_orange"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "RAW_PEACH" }
+      },
+      "model": "minecraft:item/nbt/consumables/fruit/raw_peach"
+    }
+  ]
+}

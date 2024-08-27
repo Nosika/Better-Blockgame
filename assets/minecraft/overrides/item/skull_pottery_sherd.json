@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/RUNECARVING_PVP.*/" }
+      },
+      "model": "minecraft:item/nbt/runecarving/runes/murder/murder"
+    }
+  ]
+}

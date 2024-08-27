@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "FINS_EVERFLAPPING" }
+      },
+      "model": "minecraft:item/nbt/offhands/magic_utility/fins_everflapping"
+    }
+  ]
+}

@@ -15,6 +15,12 @@
         "nbt": { "MMOITEMS_ITEM_ID": "UNSETTLING_MACE" }
       },
       "model": "minecraft:item/nbt/swords/guardian/mace_t3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "BONES_EVERPOWERFUL" }
+      },
+      "model": "minecraft:item/nbt/offhands/magic_utility/bones_everpowerful"
     }
   ]
 }

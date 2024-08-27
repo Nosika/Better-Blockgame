@@ -1,0 +1,34 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_1" }
+      },
+      "model": "minecraft:item/nbt/runecarving/runes/serenity/serenity_t1"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_2" }
+      },
+      "model": "minecraft:item/nbt/runecarving/runes/serenity/serenity_t2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_3" }
+      },
+      "model": "minecraft:item/nbt/runecarving/runes/serenity/serenity_t3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_4" }
+      },
+      "model": "minecraft:item/nbt/runecarving/runes/serenity/serenity_t4"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "RUNECARVING_DEFENSE_5" }
+      },
+      "model": "minecraft:item/nbt/runecarving/runes/serenity/serenity_t5"
+    }
+  ]
+}

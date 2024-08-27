@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "MAGISTEEL_INGOT" }
+      },
+      "model": "minecraft:item/nbt/materials/magisteel_ingot"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "RAW_FIG" }
+      },
+      "model": "minecraft:item/nbt/consumables/fruit/raw_fig"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "RAW_PLUM" }
+      },
+      "model": "minecraft:item/nbt/consumables/fruit/raw_plum"
+    }
+  ]
+}

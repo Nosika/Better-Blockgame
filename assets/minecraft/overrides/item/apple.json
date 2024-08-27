@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "RAW_APPLE" }
+      },
+      "model": "minecraft:item/nbt/consumables/fruit/raw_apple"
+    }
+  ]
+}

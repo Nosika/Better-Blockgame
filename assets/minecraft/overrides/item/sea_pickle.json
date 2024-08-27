@@ -5,6 +5,12 @@
         "nbt": { "MMOITEMS_ITEM_ID": "TOTEM_CACTUS" }
       },
       "model": "minecraft:item/nbt/offhands/cactus_pokestick"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "SEE_BREATHER" }
+      },
+      "model": "minecraft:item/nbt/offhands/magic_utility/see_breather"
     }
   ]
 }

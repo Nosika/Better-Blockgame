@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "FINNY_BONE" }
+      },
+      "model": "minecraft:item/nbt/offhands/magic_utility/finny_bone"
+    }
+  ]
+}

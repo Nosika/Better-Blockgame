@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "TOWN_BLOCK" }
+      },
+      "model": "minecraft:item/nbt/quests/writ_of_expansion"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "WAR_SUPPLIES" }
+      },
+      "model": "minecraft:item/nbt/quests/war_supplies"
+    }
+  ]
+}

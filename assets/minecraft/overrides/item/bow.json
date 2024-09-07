@@ -231,6 +231,12 @@
         "pull": 0.9
       },
       "model": "minecraft:item/nbt/bows/t4_bow/t4_bow_p2"
+    },
+    {
+      "predicate": {
+        "name": "/.*Dexterity.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/dexterity"
     }
   ]
 }

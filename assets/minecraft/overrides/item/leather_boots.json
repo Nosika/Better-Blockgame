@@ -74,9 +74,33 @@
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_BOOTS.*/" }
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_BOOTS_1.*/" }
       },
-      "model": "minecraft:item/nbt/armor/professions/botanist_boots"
+      "model": "minecraft:item/nbt/armor/professions/botanist/t1/botanist_t1_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_BOOTS_2.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist/t2/botanist_t2_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_BOOTS_3.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist/t3/botanist_t3_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_BOOTS_4.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist/t4/botanist_t4_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_BOOTS_5.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist/t5/botanist_t5_boots"
     },
     {
       "predicate": {
@@ -92,9 +116,33 @@
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_BOOTS.*/" }
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_BOOTS_1.*/" }
       },
-      "model": "minecraft:item/nbt/armor/professions/miner_boots"
+      "model": "minecraft:item/nbt/armor/professions/miner/t1/miner_t1_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_BOOTS_2.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner/t2/miner_t2_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_BOOTS_3.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner/t3/miner_t3_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_BOOTS_4.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner/t4/miner_t4_boots"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_BOOTS_5.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner/t5/miner_t5_boots"
     },
     {
       "predicate": {
@@ -119,6 +167,12 @@
         "nbt": { "MMOITEMS_ITEM_ID": "BLOODSNOUT_HEALER_BOOTS" }
       },
       "model": "minecraft:item/nbt/armor/thaum/t4/thaum_t4_boots"
+    },
+    {
+      "predicate": {
+        "name": "/.*Somatics.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/somatics"
     }
   ]
 }

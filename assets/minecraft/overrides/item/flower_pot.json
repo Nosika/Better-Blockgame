@@ -1,18 +1,40 @@
 {
-    "overrides": [
-        {
-            "predicate": {
-                "nbt": {"MMOITEMS_ITEM_ID": "ANCIENT_POTTERY"}
-            },
-            "model": "minecraft:item/nbt/materials/ancient_pottery"
-        }
-        
-    ]
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "ANCIENT_POTTERY" }
+      },
+      "model": "minecraft:item/nbt/materials/ancient_pottery"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_5" }
+      },
+      "model": "minecraft:item/nbt/offhands/herb/pottery_t5"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_4" }
+      },
+      "model": "minecraft:item/nbt/offhands/herb/pottery_t4"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_3" }
+      },
+      "model": "minecraft:item/nbt/offhands/herb/pottery_t3"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_2" }
+      },
+      "model": "minecraft:item/nbt/offhands/herb/pottery_t2"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "AUGMENT_HERBALISM_1" }
+      },
+      "model": "minecraft:item/nbt/offhands/herb/pottery_t1"
+    }
+  ]
 }
-
-
-
-
-
-
-

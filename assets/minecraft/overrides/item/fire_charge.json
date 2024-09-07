@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "name": "/.*Glass Cannon.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/glass_cannon"
+    }
+  ]
+}

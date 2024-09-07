@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "name": "/.*Battleship.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/battleship"
+    }
+  ]
+}

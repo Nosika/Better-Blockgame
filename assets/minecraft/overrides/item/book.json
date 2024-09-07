@@ -56,6 +56,12 @@
     {
       "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/.*RECIPE.*/" } },
       "model": "minecraft:item/nbt/tomes/recipe_book"
+    },
+    {
+      "predicate": {
+        "name": "/.*Deposit.*/"
+      },
+      "model": "minecraft:item/nbt/ui/deposit/deposit"
     }
   ]
 }

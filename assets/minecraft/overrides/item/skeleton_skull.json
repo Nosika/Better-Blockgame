@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "name": "/.*Bullying.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/bullying"
+    }
+  ]
+}

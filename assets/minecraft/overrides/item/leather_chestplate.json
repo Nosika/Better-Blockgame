@@ -74,9 +74,33 @@
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_CHESTPLATE.*/" }
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_CHESTPLATE_1.*/" }
       },
-      "model": "minecraft:item/nbt/armor/professions/botanist_chestplate"
+      "model": "minecraft:item/nbt/armor/professions/botanist/t1/botanist_t1_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_CHESTPLATE_2.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist/t2/botanist_t2_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_CHESTPLATE_3.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist/t3/botanist_t3_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_CHESTPLATE_4.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist/t4/botanist_t4_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST_CHESTPLATE_5.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/botanist/t5/botanist_t5_chest"
     },
     {
       "predicate": {
@@ -92,9 +116,33 @@
     },
     {
       "predicate": {
-        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_CHESTPLATE.*/" }
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_CHESTPLATE_1.*/" }
       },
-      "model": "minecraft:item/nbt/armor/professions/miner_chestplate"
+      "model": "minecraft:item/nbt/armor/professions/miner/t1/miner_t1_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_CHESTPLATE_2.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner/t2/miner_t2_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_CHESTPLATE_3.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner/t3/miner_t3_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_CHESTPLATE_4.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner/t4/miner_t4_chest"
+    },
+    {
+      "predicate": {
+        "nbt": { "MMOITEMS_ITEM_ID": "/MINER_CHESTPLATE_5.*/" }
+      },
+      "model": "minecraft:item/nbt/armor/professions/miner/t5/miner_t5_chest"
     },
     {
       "predicate": {

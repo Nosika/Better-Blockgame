@@ -3,6 +3,12 @@
     {
       "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "LIVING_FIRE" } },
       "model": "minecraft:item/nbt/materials/living_fire"
+    },
+    {
+      "predicate": {
+        "name": "/.*Intelligence.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/intelligence"
     }
   ]
 }

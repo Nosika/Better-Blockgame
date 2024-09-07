@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "name": "/.*Ferocity.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/ferocity"
+    }
+  ]
+}

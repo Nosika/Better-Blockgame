@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "name": "/.*Spartan.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/spartan"
+    }
+  ]
+}

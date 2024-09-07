@@ -5,6 +5,12 @@
         "nbt": { "MMOITEMS_ITEM_ID": "BLOODSNOUT_BLADE" }
       },
       "model": "minecraft:item/nbt/swords/t4_sword"
+    },
+    {
+      "predicate": {
+        "name": "/.*Bravery.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/bravery"
     }
   ]
 }

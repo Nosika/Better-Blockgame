@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "name": "/.*Bloom.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/bloom"
+    }
+  ]
+}

@@ -5,6 +5,12 @@
         "nbt": { "MMOITEMS_ITEM_ID": "CORRUPTED_SHARD" }
       },
       "model": "minecraft:item/nbt/materials/corrupted_shard"
+    },
+    {
+      "predicate": {
+        "name": "/.*Assassin.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/assassin"
     }
   ]
 }

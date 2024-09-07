@@ -3,6 +3,12 @@
     {
       "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "TOKEN_ORIGIN_DAILY" } },
       "model": "minecraft:item/nbt/quests/token_origin_daily"
+    },
+    {
+      "predicate": {
+        "name": "/.*Volition.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/volition"
     }
   ]
 }

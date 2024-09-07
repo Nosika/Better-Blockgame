@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "name": "/.*Shield Mastery.*/"
+      },
+      "model": "minecraft:item/nbt/ui/stats/shield_mastery"
+    }
+  ]
+}

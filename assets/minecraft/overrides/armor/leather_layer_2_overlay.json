@@ -1,8 +1,17 @@
 {
   "overrides": [
     {
+      "predicate": {
+        "nbt": {
+          "MMOITEMS_ITEM_SET": "/.*BOTANEIST.*/",
+          "MMOITEMS_NAME_ID": "/.*5.*/"
+        }
+      },
+      "texture": "textures/item/nbt/armor/professions/botanist/t5/botanist_t5_layer_2"
+    },
+    {
       "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/BOTANIST.*/" } },
-      "texture": "textures/item/nbt/armor/professions/botanist_armor_layer_2"
+      "texture": "textures/item/nbt/armor/professions/botanist/t5/botanist_t5_layer_2"
     },
     {
       "predicate": { "nbt": { "MMOITEMS_ITEM_ID": "/FISHERMAN.*/" } },
